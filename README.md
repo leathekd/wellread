@@ -18,11 +18,10 @@ the script.
   java -jar wellread-1.0.0-standalone.jar --file <path>
 
 The file referenced by <path> above should be in the format of:
-```
-username
 
-password
-```
+> username
+> password
+
 
 ## License
 
