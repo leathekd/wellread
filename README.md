@@ -19,7 +19,7 @@ the script.
 
 The file referenced by <path> above should be in the format of:
 
-> username
+> username<br>
 > password
 
 
