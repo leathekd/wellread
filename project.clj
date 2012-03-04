@@ -6,4 +6,4 @@
   :dependencies [[org.clojure/clojure "1.3.0"]
                  [org.clojure/tools.cli "0.2.1"]
                  [htmlunit "2.9"]]
-  :dev-resources-path "etc")
+  :resources-path "etc")
